@@ -12,6 +12,13 @@
             "title": "Portfolio",
             "description": "Portfolio project with Html, CSS, Javascript",
             "url": "https://samuel-obi.netlify.app/"
+        },
+
+        {
+            "cover": "/portfolio/1/nftland.png",
+            "title": "NFT-landing",
+            "description": "NFT landing project with Html, CSS, Javascript",
+            "url": "https://samuel-nft-landing.netlify.app/"
         }
     ]
 }
